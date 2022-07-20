@@ -29,6 +29,3 @@ for letter in message_to_encode.upper():
 morse_code = "".join(morse_list)
 print(morse_code)
 
-
-# for key, value in MORSE_CODE_DICT.items():
-#     print(key, value)
